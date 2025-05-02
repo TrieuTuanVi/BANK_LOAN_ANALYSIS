@@ -4,7 +4,7 @@ This project aims to analyze banking loan data to assess loan performance, ident
 
 ---
 
-## 🎯 Project Objectives
+## 🎯 Objectives: 
 
 - Evaluate the performance of issued loans (Good vs Bad loans)
 - Discover patterns in loan repayment and defaults
@@ -13,14 +13,14 @@ This project aims to analyze banking loan data to assess loan performance, ident
 
 ---
 
-##  📁 Dataset 
+##  📁 Dataset:
 
 - <a href= "https://github.com/TrieuTuanVi/BANK_LOAN_ANALYSIS/blob/main/financial_loan.csv">Dataset</a> 
 - The dataset includes over 38,576 loan records with fields such as: borrower information, loan information, date information, payment information
 
 ---
 
-## 🛠 Tools 
+## 🛠 Tools:
 
 - [![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) : Data cleaning, transformation and querying
 - [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/) : Visualization and dashboard creation
@@ -28,7 +28,7 @@ This project aims to analyze banking loan data to assess loan performance, ident
 
 ---
 
-## ⚙️ Workflow
+## ⚙️ Workflow:
 
 1️⃣ **Data Preparation**: Cleaned and loaded raw data into SQL, removed nulls, standardized columns.
 
@@ -47,7 +47,7 @@ This project aims to analyze banking loan data to assess loan performance, ident
 
 ---
 
-## 📊 Dashboard Overview
+## 📊 Dashboard:
 
 - **Summary Dashboard**
 ![1  SUMMARY](https://github.com/user-attachments/assets/19bdb14a-38c3-474c-99f7-20ad6f92b035)
@@ -59,3 +59,27 @@ This project aims to analyze banking loan data to assess loan performance, ident
   
 - **Detail Dashboard**
 ![3  DETAILS](https://github.com/user-attachments/assets/39d73d95-c15d-401d-9d77-610cea73b214)
+
+---
+
+## ✅Insight: 
+
+- **Good Loans** account for **86.2%** of the total portfolio, while **Bad Loans** make up the remaining **13.8%**, highlighting overall positive loan performance
+- A significant majority of borrowers (**73.2%**) opt for **60-month loan terms**, suggesting a preference for longer repayment durations
+- **Debt Consolidation** is the leading loan purpose, representing **47.2%** of total loans (18.2K out of 38.6K applications)
+- **Grade B loans** are the most frequently issued, comprising over **25%** of all loans
+- Borrowers with **10+ years of employment** represent **~23%** of the applicant pool (8.9K), indicating employment stability among many applicants
+- Applicants who **rent their homes** account for the largest group (**~48%**) and show a higher tendency for **bad loans** compared to homeowners
+- **Interest rates above 18%** are strongly associated with **Charged Off** loans, indicating higher default risk at elevated interest levels
+- Customers with a **Debt-to-Income (DTI) ratio > 14%** exhibit significantly more defaults, especially in “Charged Off” and “Current” statuses
+- Loans with **monthly installments above $1,200** show a higher incidence of **non-performing loans**, suggesting repayment stress in higher-value loans
+
+---
+
+## 🏆 Conclusion: 
+
+The analysis reveals that while the majority of loans are performing well, higher risk is associated with long-term loans, high interest rates, and borrowers with elevated DTI or large monthly installments. These insights can support better credit assessment and portfolio management, helping lenders make more informed, data-driven decisions.
+
+
+
+
