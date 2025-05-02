@@ -49,7 +49,7 @@ This project aims to analyze banking loan data to assess loan performance, ident
 
 ## 📊 Dashboard:
 
-- **DASHBOARD 1: SUMMARY**
+**DASHBOARD 1: SUMMARY**
   
 **1. Key Performance Indicators (KPIs)**:
 - **Total Loan Applications**: Track total applications, Month-to-Date (MTD) applications, and Month-over-Month (MoM) changes
@@ -67,7 +67,7 @@ This project aims to analyze banking loan data to assess loan performance, ident
 ![1  SUMMARY](https://github.com/user-attachments/assets/19bdb14a-38c3-474c-99f7-20ad6f92b035)
 
   
-- **DASHBOARD 2: OVERVIEW**
+**DASHBOARD 2: OVERVIEW**
 **1. Visual representation of key metrics using various chart types:**
 
 - **Monthly Trends (Line Chart)**: Shows variations in total applications, funded amounts, and received amounts over time\
@@ -79,7 +79,7 @@ This project aims to analyze banking loan data to assess loan performance, ident
   
 ![2  OVERVIEW](https://github.com/user-attachments/assets/ed0f75fc-1e12-42fd-a65a-0b8d14c25534)
   
-- **DASHBOARD 3: DETAILS**
+**DASHBOARD 3: DETAILS**
   
 The Details Dashboard consolidates essential loan data, providing a user-friendly interface for accessing key metrics and insights into the loan portfolio and borrower profiles.
 
