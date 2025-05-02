@@ -48,3 +48,14 @@ This project aims to analyze banking loan data to assess loan performance, ident
 ---
 
 ## 📊 Dashboard Overview
+
+- **Summary Dashboard**
+![1  SUMMARY](https://github.com/user-attachments/assets/19bdb14a-38c3-474c-99f7-20ad6f92b035)
+
+  
+- **Overview Dashboard**
+![2  OVERVIEW](https://github.com/user-attachments/assets/ed0f75fc-1e12-42fd-a65a-0b8d14c25534)
+
+  
+- **Detail Dashboard**
+![3  DETAILS](https://github.com/user-attachments/assets/39d73d95-c15d-401d-9d77-610cea73b214)
