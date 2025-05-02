@@ -16,7 +16,7 @@ This project aims to analyze banking loan data to assess loan performance, ident
 
 Bank loans are essential financial tools for individuals and businesses to achieve goals and manage financial needs. Understanding loan terms, costs, and responsibilities is crucial for borrowers to make informed decisions.
 
-**Data Collection Channels**
+1️⃣ **Data Collection Channels**
 
 - **Loan Applications**: Detailed applications submitted by borrowers, collected electronically or on paper
 - **Credit Reports**: Accessed from credit bureaus to assess creditworthiness, including credit history and payment behavior
@@ -24,7 +24,7 @@ Bank loans are essential financial tools for individuals and businesses to achie
 - **Online Portals**: Platforms for loan applications, payments, and account access, with data stored for analysis
 - **Third-party Sources**: External data for income verification and additional borrower information.
 
-**Loan Granting Process**
+2️⃣ **Loan Granting Process**
 
 - **Loan Application**: Submission through various channels
 - **Application Review**: Collection of necessary documentation
@@ -41,7 +41,7 @@ Bank loans are essential financial tools for individuals and businesses to achie
 - **Repayment**: Regular payments as per the agreement
 - **Ongoing Monitoring**: Tracking payments and borrower health
 
-**Reasons for Analyzing Bank Loan Data**
+3️⃣ **Reasons for Analyzing Bank Loan Data**
 
 - **Risk Assessment**: Evaluating borrower creditworthiness and predicting defaults
 - **Decision-making**: Data-driven models for loan application evaluations
@@ -53,7 +53,7 @@ Bank loans are essential financial tools for individuals and businesses to achie
 - **Market Research**: Understanding trends and customer demand
 - **Credit Risk Management**: Monitoring and managing credit risks
 - **Customer Retention**: Identifying opportunities to retain customers through refinancing and additional products
-- 
+  
 ---
 
 ##  📁 Dataset:
