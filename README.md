@@ -49,7 +49,15 @@ This project aims to analyze banking loan data to assess loan performance, ident
 
 ## 📊 Dashboard:
 
-- **Summary Dashboard**
+- **Dashboard 1: Summary**
+  
+**Key Performance Indicators (KPIs)**:
+- **Total Loan Applications**: Track total applications, Month-to-Date (MTD) applications, and Month-over-Month (MoM) changes
+- **Total Funded Amount**: Monitor total funds disbursed, MTD amounts, and MoM variations
+- **Total Amount Received**: Analyze total repayments, MTD amounts, and MoM changes
+- **Average Interest Rate**: Calculate average rates and track MTD and MoM fluctuations
+- **Average Debt-to-Income Ratio (DTI**): Evaluate average DTI for borrowers and monitor MTD and MoM changes.
+
 ![1  SUMMARY](https://github.com/user-attachments/assets/19bdb14a-38c3-474c-99f7-20ad6f92b035)
 
   
