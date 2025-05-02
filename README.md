@@ -2,32 +2,36 @@
 
 This project aims to analyze banking loan data to assess loan performance, identify customer behavior patterns, and provide actionable insights for business decision-making. By leveraging SQL for data transformation and Tableau for dynamic visualization, we build an interactive dashboard that helps monitor loan status, customer segments, and financial risks.
 
-🎯 Project Objectives
-Evaluate the performance of issued loans (Good vs Bad loans).
+---
 
-Discover patterns in loan repayment and defaults.
+## 🎯 Project Objectives
 
-Analyze key factors influencing loan outcomes: term, purpose, grade, interest rate, etc.
+- Evaluate the performance of issued loans (Good vs Bad loans)
+- Discover patterns in loan repayment and defaults
+- Analyze key factors influencing loan outcomes: term, purpose, grade, interest rate,...
+- Design a comprehensive dashboard for data-driven decision-making
 
-Design a comprehensive dashboard for data-driven decision-making.
+---
 
-📁 Data Description
-The dataset includes over 38,000 loan records with fields such as:
+##  📁 Dataset 
 
-Loan ID, Loan Status, Loan Amount, Term, Interest Rate, Issue Date
+The dataset includes over 38,000 loan records with fields such as: id,	address_state,	application_type,	emp_length,	emp_title,	grade	home_ownership	issue_date	last_credit_pull_date	last_payment_date	loan_status	next_payment_date	member_id	purpose	sub_grade	term	verification_status	annual_income	dti	installment	int_rate	loan_amount	total_acc	total_payment
+![image](https://github.com/user-attachments/assets/8a8f6d4e-43be-41eb-9082-063c565b5010)
 
-Home Ownership, Employment Length, DTI (Debt-to-Income Ratio), Purpose
+---
 
-Total Payment, Installment, Grade, Subgrade, and more
+## 🛠 Tools Used
 
-🛠 Tools Used
 SQL: Data cleaning, transformation, aggregation.
 
 Tableau: Visualization and dashboard creation.
 
 Excel (supporting tool): For initial exploration and validation.
 
-🔄 Project Workflow
+---
+
+## 🔄 Project Workflow
+
 Data Preparation
 Cleaned and loaded raw data into SQL, removed nulls, standardized columns.
 
@@ -49,4 +53,6 @@ Overview: Detailed breakdown by dimensions (time, term, ownership, purpose)
 
 Details: Raw loan-level data for drill-down
 
-📊 Dashboard Overview
+---
+
+## 📊 Dashboard Overview
