@@ -57,9 +57,11 @@ This project aims to analyze banking loan data to assess loan performance, ident
 - **Total Amount Received**: Analyze total repayments, MTD amounts, and MoM changes
 - **Average Interest Rate**: Calculate average rates and track MTD and MoM fluctuations
 - **Average Debt-to-Income Ratio (DTI**): Evaluate average DTI for borrowers and monitor MTD and MoM changes.
+
 **2. Good vs. Bad Loan KPIs:**
 - **Good Loans**: Percentage, total applications, funded amounts, and received amounts for loans classified as 'Fully Paid' or 'Current'.
 - **Bad Loans**: Percentage, total applications, funded amounts, and received amounts for loans classified as 'Charged Off'.
+
 **3. Loan Status Grid View:** A grid view report will categorize loans by status, providing insights into metrics like total applications, funded amounts, and average interest rates.
 
 ![1  SUMMARY](https://github.com/user-attachments/assets/19bdb14a-38c3-474c-99f7-20ad6f92b035)
