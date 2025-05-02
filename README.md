@@ -15,16 +15,16 @@ This project aims to analyze banking loan data to assess loan performance, ident
 
 ##  📁 Dataset 
 
-- https://github.com/TrieuTuanVi/BANK_LOAN_ANALYSIS/blob/main/financial_loan.csv
+- <a href= "https://github.com/TrieuTuanVi/BANK_LOAN_ANALYSIS/blob/main/financial_loan.csv">Dataset</a> 
 - The dataset includes over 38,576 loan records with fields such as: borrower information, loan information, date information, payment information
 
 ---
 
 ## 🛠 Tools 
 
-- [![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/): Data cleaning, transformation and querying
-- [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/): Visualization and dashboard creation
-- [![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) (supporting tool): For initial exploration and validation
+- [![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) : Data cleaning, transformation and querying
+- [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/) : Visualization and dashboard creation
+- [![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)(supporting tool) : For initial exploration and validation
 
 ---
 
