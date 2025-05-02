@@ -15,18 +15,16 @@ This project aims to analyze banking loan data to assess loan performance, ident
 
 ##  📁 Dataset 
 
-The dataset includes over 38,000 loan records with fields such as: id,	address_state,	application_type,	emp_length,	emp_title,	grade	home_ownership	issue_date	last_credit_pull_date	last_payment_date	loan_status	next_payment_date	member_id	purpose	sub_grade	term	verification_status	annual_income	dti	installment	int_rate	loan_amount	total_acc	total_payment
-![image](https://github.com/user-attachments/assets/8a8f6d4e-43be-41eb-9082-063c565b5010)
+- https://github.com/TrieuTuanVi/BANK_LOAN_ANALYSIS/blob/main/financial_loan.csv
+- The dataset includes over 38,576 loan records with fields such as: borrower information, loan information, date information, payment information
 
 ---
 
-## 🛠 Tools Used
+## 🛠 Tools 
 
-SQL: Data cleaning, transformation, aggregation.
-
-Tableau: Visualization and dashboard creation.
-
-Excel (supporting tool): For initial exploration and validation.
+- [![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/): Data cleaning, transformation and querying
+- [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)](https://www.tableau.com/): Visualization and dashboard creation
+- [![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) (supporting tool): For initial exploration and validation
 
 ---
 
