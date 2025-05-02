@@ -12,6 +12,49 @@ This project aims to analyze banking loan data to assess loan performance, ident
 - Design a comprehensive dashboard for data-driven decision-making
 
 ---
+## 📝 Domain Knowledge
+
+Bank loans are essential financial tools for individuals and businesses to achieve goals and manage financial needs. Understanding loan terms, costs, and responsibilities is crucial for borrowers to make informed decisions.
+
+**Data Collection Channels**
+
+- **Loan Applications**: Detailed applications submitted by borrowers, collected electronically or on paper
+- **Credit Reports**: Accessed from credit bureaus to assess creditworthiness, including credit history and payment behavior
+- **Internal Records**: Banks maintain records of loan transactions, including disbursements and repayments
+- **Online Portals**: Platforms for loan applications, payments, and account access, with data stored for analysis
+- **Third-party Sources**: External data for income verification and additional borrower information.
+
+**Loan Granting Process**
+
+- **Loan Application**: Submission through various channels
+- **Application Review**: Collection of necessary documentation
+- **Identity Verification**: Ensures the applicant's identity
+- **Credit Check**: Evaluation of credit history and score
+- **Income Verification**: Assessment of repayment ability through income documentation
+- **Debt-to-Income Ratio (DTI) Check**: Calculation of DTI to gauge repayment capacity
+- **Employment Verification**: Confirmation of employment status and history
+- **Collateral Assessment**: Evaluation of secured assets, if applicable
+- **Risk Assessment**: Overall risk evaluation of the loan
+- **Loan Approval or Denial**: Decision based on gathered information
+- **Loan Agreement**: Outlining terms and conditions
+- **Disbursement of Funds**: Release of funds to the borrower
+- **Repayment**: Regular payments as per the agreement
+- **Ongoing Monitoring**: Tracking payments and borrower health
+
+**Reasons for Analyzing Bank Loan Data**
+
+- **Risk Assessment**: Evaluating borrower creditworthiness and predicting defaults
+- **Decision-making**: Data-driven models for loan application evaluations
+- **Portfolio Management**: Monitoring loan health and optimizing terms
+- **Fraud Detection**: Identifying unusual patterns in loan data
+- **Regulatory Compliance**: Meeting legal requirements for data collection and reporting
+- **Customer Insights**: Understanding borrower behavior for tailored products
+- **Profitability Analysis**: Assessing loan portfolio profitability
+- **Market Research**: Understanding trends and customer demand
+- **Credit Risk Management**: Monitoring and managing credit risks
+- **Customer Retention**: Identifying opportunities to retain customers through refinancing and additional products
+- 
+---
 
 ##  📁 Dataset:
 
